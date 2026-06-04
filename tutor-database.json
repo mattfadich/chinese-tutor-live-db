@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "database_name": "Chinese Tutor AI",
+  "last_updated": "",
+  "source": "Google Sheet",
+  "profile": {},
+  "recent_sessions": [],
+  "vocabulary": [],
+  "grammar": [],
+  "review_targets": [],
+  "notes": "Initial placeholder. Codex will refresh this from the live Google Sheet."
+}
